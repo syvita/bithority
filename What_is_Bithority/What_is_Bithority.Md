@@ -8,3 +8,7 @@ In this regard, Bithority idea was created to try solving this very concern.
 
 ## Bithority Solution
 Sfvshdn... 
+
+## Bithority plan and general roadmap
+Dbdhjdjdj.... 
+
