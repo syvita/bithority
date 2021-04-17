@@ -28,5 +28,7 @@ On the other side, any-scale invetsors, from very small to big ones, can join th
 *add more here guys lol*
 
 ## Bithority plan and general roadmap
-Dbdhjdjdj.... 
 
+https://github.com/labs3/bithority/blob/main/Drawings/IMG-20210323-WA0000.jpg
+
+Dgshhdhdhhdh...... 
