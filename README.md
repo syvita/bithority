@@ -20,6 +20,7 @@ In this regard, Bithority idea was created to try solving this very concern.
 
 Bithority uses smart contracts on the Stacks blockchain to raise funds for mining operations from investors. New miners can raise capital for buying ASICs and developing their operation, while investors get a share of the hash power that the miners create.
 Therefore, Bithority practically act as a Bitcoin hashrate rental service that benefits both miners and investors by sharing Bitcoin mining economy and some piece of its profitability cake! 
+![Drawings/Bithority_158.jpg](Drawings/Bithority_158.jpg)
 https://github.com/labs3/bithority/blob/main/Drawings/Bithority_158.jpg
 
 As such, any miner around the world, no matter where, that has enough facilities to plug in a mining farm can then connect it to Bithority protocol and rent his hashrate. No need of any reputation or credential, KYC, bureacracy, jurisdictional compliance and no need of nothing except pluging his farm into Bithority! 
@@ -28,7 +29,7 @@ On the other side, any-scale invetsors, from very small to big ones, can join th
 *add more here guys lol*
 
 ## Bithority plan and general roadmap
-
+![Drawings/IMG-20210323-WA0000.jpg](Drawings/IMG-20210323-WA0000.jpg)
 https://github.com/labs3/bithority/blob/main/Drawings/IMG-20210323-WA0000.jpg
 
 Dgshhdhdhhdh...... 
