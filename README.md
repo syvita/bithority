@@ -21,7 +21,7 @@ In this regard, Bithority idea was created to try solving this very concern.
 Bithority uses smart contracts on the Stacks blockchain to raise funds for mining operations from investors. New miners can raise capital for buying ASICs and developing their operation, while investors get a share of the hash power that the miners create.
 Therefore, Bithority practically act as a Bitcoin hashrate rental service that benefits both miners and investors by sharing Bitcoin mining economy and some piece of its profitability cake! 
 
-![Drawings/Bithority_158.jpg](Drawings/Bithority_158.jpg =250x)
+![Drawings/Bithority_158.jpg](Drawings/Bithority_158.jpg=250x250)
 
 https://github.com/labs3/bithority/blob/main/Drawings/Bithority_158.jpg
 
