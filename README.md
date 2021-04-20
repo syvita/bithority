@@ -41,3 +41,7 @@ https://github.com/labs3/bithority/blob/main/Drawings/IMG-20210323-WA0000.jpg
 
 Dgshhdhdhhdh...... 
 ![Drawings/animation(1).gif](Drawings/animation(1).gif) 
+
+## Potential Market and users
+
+Add materials here... 
