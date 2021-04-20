@@ -30,10 +30,11 @@ On the other side, any-scale investors (from very small to very big ones), can j
 
 *add more here guys lol*
 
-## Bithority plan and general roadmap
+## Bithority structure 
 
 ![Drawings/IMG-20210323-WA0000.jpg](Drawings/IMG-20210323-WA0000.jpg)
 
 https://github.com/labs3/bithority/blob/main/Drawings/IMG-20210323-WA0000.jpg
 
 Dgshhdhdhhdh...... 
+![Drawings/animation(1).gif](Drawings/animation(1).gif) 
