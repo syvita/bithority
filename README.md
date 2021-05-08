@@ -14,7 +14,9 @@ Bithority or Bitcoin mining control authority is a protocol/network based on the
 
 **Defect of solution 1:** He can only take a loan in limited margin, for instance, 30-50% of his Bitcoins
 
-So what you think? **What could be an ideal solution** to take a larger cash without losing his mined Bitcoins?! 😉
+So what you think? **What could be an ideal solution** to take a larger cash without losing his mined Bitcoins?!  
+ 
+**The ideal Solution:** Bithority  😎
 
 The Bitcoin mining ecosystem is becoming bigger and bigger by the day and those who have access to special industrial facilities, suitable for mining, are increasingly attracted to establish mining farms and participate in securing the Bitcoin network. 
 
