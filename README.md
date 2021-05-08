@@ -38,7 +38,7 @@ On the other side, any-scale investors (from very small to very big ones), can j
 
 *add more here guys lol*
 
-## Bithority structure 
+## Bithority Structure 
 Since Bithority is a trustless autonomous protocol then it needs to automatically interact with all parties participating in the system. In one side, we have miners that they escrow enough Bitcoin proportional to 
 Their selling hashrate amount and on the other side we have investors that pay Btc for their requested renting hashrate. Therefore, after the execution of the deal between a spotted miner and invetsor, the miner is committed to pay the mining reward (accossiated with defined user) into the Bithority reward pool in a specified time (that is already set in the sale market upon agreement). 
 
@@ -50,6 +50,6 @@ https://github.com/labs3/bithority/blob/main/Drawings/IMG-20210323-WA0000.jpg
 Dgshhdhdhhdh...... 
 ![Drawings/animation(1).gif](Drawings/animation(1).gif) 
 
-## Potential Market and users
+## Potential Market and Users
 
 Add materials here... 
