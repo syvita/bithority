@@ -8,6 +8,13 @@ Bithority or Bitcoin mining control authority is a protocol/network based on the
 **(Dev team available on Discord: https://discord.gg/us7YA5CdTG )**
 
 ## Problem Definition
+**Puzzle:** Assume a Bitcoin miner that generates Bitcoin to store/sell it and making profit...Recently He is in urgent need of cash not only to pay for its expenses but also to expand its facilities. But he does not want to sell any of his precious coins and wants to hodl it!.. What should he do to provide the urgent cash?! 🤔
+
+**💡Solution 1:** He can escrow his Bitcoins to take a loan in Usd.. 
+
+**Defect of solution 1:** He can only take a loan in limited margin, for instance, 30-50% of his Bitcoins
+
+So what you think? **What could be an ideal solution** to take a larger cash without losing his mined Bitcoins?! 😉
 
 The Bitcoin mining ecosystem is becoming bigger and bigger by the day and those who have access to special industrial facilities, suitable for mining, are increasingly attracted to establish mining farms and participate in securing the Bitcoin network. 
 
