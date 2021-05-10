@@ -55,3 +55,7 @@ Dgshhdhdhhdh......
 ## Potential Market and Users
 
 Add materials here... 
+
+## Can I contribute?
+Yes you can join us in Discord server (https://discord.gg/us7YA5CdTG) and also read below guides about Bithority structure.
+Khxjxkhckckhckjckcljvkjvkhv
