@@ -54,7 +54,8 @@ Dgshhdhdhhdh......
 
 ## Potential Market and Users
 
-Add materials here... 
+According to Ycharts.com, Bitcoin Miners Revenue Per Day is at a current level of 31.68M$ in June 2021. This is a 220.9% rise from one year ago. That would be almost around 1 Billion$ monthly and 11 Billion$ yearly! This is just this year stats and all expect Bitcoin price rises up to much upper level abobe 100k-200k$. And as such, more and more miners will start mining in the following years to take a piece of cake! 
+Add materials here guys... 
 
 ## Can I contribute?
 Yes you can join us in Discord server (https://discord.gg/us7YA5CdTG) and also read below guides about Bithority structure.
