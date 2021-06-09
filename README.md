@@ -54,14 +54,12 @@ Dgshhdhdhhdh......
 
 ## Potential Market and Users
 
-According to Ycharts.com, Bitcoin Miners Revenue Per Day is at a current level of 31.68M$ in June 2021. This is a 220.9% rise from one year ago. That would be almost around 1 Billion$ monthly and 11 Billion$ yearly! This is just only this year stats and all expect Bitcoin price rises up to much upper levels above 100k-200k$. And as such, more and more miners will start mining in the following years to take a piece of cake! 
-Assuming only 10% of this revenue gets back by Bitcoin farm owners and invested in development of their facility, then approximately 1.1 Billion$ could enter the Bithority ecosystem! Bithority platform could be an efficient and trusted tool for mining farm owners to take loans based on their hashrate collateralization.
+According to Ycharts.com, Bitcoin Miners Revenue Per Day is at a current level of 31.68M$ in June 2021. This is a 220.9% rise from one year ago. That comes down to approx. 1 Billion$ monthly and 11 Billion$ yearly! These are only the estimates for this year and the ![Stock to Flow model](https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12) predicts further increases in Bitcoin valuation. And as such, more and more miners will start mining in the following years to take a piece of cake! 
+Assuming only 10% of this revenue gets back to _Bitcoin farm owners_ and invested in development of their facility, then approximately 1.1 Billion$ could enter the Bithority ecosystem! Bithority platform could be an efficient and trusted tool for _mining farm owners_ to take loans based on their hashrate collateralization.
 ![https://github.com/syvita/bithority/blob/main/Drawings/the-2020-crypto-money-flow-cycle.jpeg](https://github.com/syvita/bithority/blob/main/Drawings/the-2020-crypto-money-flow-cycle.jpeg) 
   ![]        ☝️Figure: Any-scale investor can participate in Bithority. 
 
- So considering only 10% total mining revenue as the input finnacial flow of Bithority is the pessimistic scenario and could be even higher. 
-Add materials here guys... 
 
 ## Can I contribute?
-Yes you can join us in Discord server (https://discord.gg/us7YA5CdTG) and also read below guides about Bithority structure.
-Khxjxkhckckhckjckcljvkjvkhv
+Yes, you can join us in our Discord server (https://discord.gg/us7YA5CdTG) and also read the guides about Bithority's structure.
+
