@@ -1,4 +1,5 @@
 # Bithority
+(There is no code! Still in proof of concept phase) 
 
 Bitcoin Mining Control Authority
 
