@@ -1,6 +1,6 @@
 # Bithority
 
-Bitcoin Mining Control Authority 
+##Bitcoin Mining Control Authority 
 (There is no code yet! Still in proof of concept phase) 
 
 # What is Bithority?
