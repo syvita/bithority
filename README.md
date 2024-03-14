@@ -4,7 +4,7 @@ Bitcoin Mining Control Authority
 
 # What is Bithority?
 
-Bithority or Bitcoin mining control authority is a protocol/network based on the Stacks blockchain that provides a trustless platform for renting Bitcoin hashrate to any-scale investors! The Bithority project aims to vastly decentralize the Bitcoin mining ecosystem.
+Bithority or Bitcoin mining control authority is a protocol/network based on the concept to provide a trustless platform for renting Bitcoin hashrate to any-scale investors! The Bithority project aims to vastly decentralize the Bitcoin mining ecosystem.
 **(Dev team available on Discord: https://discord.gg/us7YA5CdTG )**
 
 ## Problem Definition
