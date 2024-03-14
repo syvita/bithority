@@ -8,7 +8,7 @@ Bithority or Bitcoin mining control authority is a protocol/network based on the
 **(Dev team available on Discord: https://discord.gg/us7YA5CdTG )**
 
 ## Problem Definition
-**Puzzle:** Assume a Bitcoin miner that generates Bitcoin to store/sell it and making profit...Recently He is in urgent need of cash not only to pay for its expenses but also to expand its facilities. But he does not want to sell any of his precious coins and wants to hodl it!.. What should he do to provide the urgent cash?! 🤔
+**Puzzle:** Assume a Bitcoin miner that generates Bitcoin to store/sell it and making profit...Recently He is in urgent need of cash not only to pay for its expenses but also to expand its facilities. But he does not want to sell any of his precious coins and wants to hodl it!.. What should he does to provide the urgent cash?! 🤔
 
 **💡Solution 1:** He can escrow his Bitcoins to take a loan in Usd.. 
 
@@ -18,11 +18,11 @@ So what you think? **What could be an ideal solution** to take a larger cash wit
  
 **The ideal Solution:** Bithority  😎
 
-The Bitcoin mining ecosystem is becoming bigger and bigger by the day and those who have access to special industrial facilities, suitable for mining, are increasingly attracted to establish mining farms and participate in securing the Bitcoin network. 
+The Bitcoin mining ecosystem is becoming bigger and bigger day by day and those who have access to special resources and facilities (suitable for mining) can only decide to establish mining farms and participate in securing the Bitcoin network. This needs to be changed, so that also retail investors can participate and grab some pieces of this Bitcoin mining cake! However, this participation of retail investors should be in a way that makes a bilateral dependency between miners and retail investors so that the mining force gets practically distributed among all folks. (Only selling hash-rate from big farmers to investors cannot make that dependency and entanglement between retailers and miners!) 
 
 Building a mining farm currently takes a considerable amount of capital and financial capacity and requires capable miners to deal with challenging technical issues such as supplying cheap energy sources, efficient mining machines, electrical infrastructures, cooling systems, adapting to regional jurisdictions, risk control strategies, cash flow control and professional budgeting plans. Therefore, we see a totally different shape of mining in line with the early days of Bitcoin when Bitcoin was still minted profitably with home-scale systems and a low budget!
 
-As such, concerns have ben raised and arguments around centralization of Bitcoin mining... mining in the hands of only those very rich individuals/corporations that have special facilities. We seriously think this is a true concern and needs to be addressed by dedicated Bitcoin community players in order to protect and keep the decentralized essence of Bitcoin network the way it was envisioned by Satoshi Nakamoto, set out in it's whitepaper!
+As such, legit concerns have been raised and arguments circulating around centralization of Bitcoin mining... mining in the hands of only those very rich individuals/corporations that have special facilities. We seriously think this is a true concern and needs to be addressed by dedicated Bitcoin community players in order to protect and keep the decentralized essence of Bitcoin network the way it was envisioned by Satoshi Nakamoto, set out in its whitepaper!
 
 In this regard, the Bithority idea was emerged to topple this very concern.
 
